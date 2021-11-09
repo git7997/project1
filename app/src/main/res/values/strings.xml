@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FIRSTone</string>
+    <string name="textview">TextView</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="button">Button</string>
+    <string name="choose_your_workout">choose your workout</string>
+
+
+
+</resources>
